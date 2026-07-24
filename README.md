@@ -3,7 +3,7 @@
 
 # rod-web-swap
 
-Static browser-based SpaceXpanse ROD wallet with an integrated experimental OTC swap engine.
+Static browser-based SpaceXpanse ROD wallet with an integrated experimental OTC swap engine.b
 
 ## Experimental disclaimer
 
